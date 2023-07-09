@@ -1,0 +1,90 @@
+.laundry {
+    background: url(/laundry.jpg) no-repeat;
+    width: 100%;
+    display: table;
+    height: 100vh;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    z-index: -1;
+}
+
+.laundryblack {
+    background-color: rgba(0, 0, 0, 0.3);
+    z-index: 1;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+}
+
+.services {
+    background: transparent url(/bubbles.jpg) no-repeat;
+    width: 100%;
+    display: table;
+    height: 70vh;
+    text-align: center;
+    background-size: cover;
+    z-index: -1;
+}
+
+.servicesblack {
+    background-color: rgba(0, 0, 0, 0.3);
+    z-index: 1;
+    min-height: 70vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.services2 {
+    background: transparent url(/soap_and_leaf.webp) no-repeat;
+    width: 100%;
+    display: table;
+    background-position: center;
+    text-align: center;
+    background-size: cover;
+    z-index: -1;
+}
+
+.servicesblack2 {
+    background-color: rgba(0, 0, 0, 0.3);
+    z-index: 1;
+   
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    @apply max-w-screen-md md:max-w-full
+}
+
+.contactform {
+    color: #0F74BA;
+    position: relative;
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+}
+
+.contactform::before {
+    position: absolute;
+    content: "";
+    z-index: -10;
+    height: 100%;
+    width: 120%;
+    left: -25%;
+    opacity: 40%;
+    background: url(/noise.webp) repeat,linear-gradient(247.23deg,#184fd9 0%, #0F74BA 100%);
+    background-blend-mode: overlay;
+    -webkit-mask-image: radial-gradient(rgba(0,0,0,.7),transparent 70%);
+}
+
+.contactform2 {
+     background: url(/Water-Bubbles.png) repeat;
+     width: 100%;
+     display: table;
+     height: 100vh;
+     background-position: center;
+    background-size: 300px;
+     z-index: -1;
+}
