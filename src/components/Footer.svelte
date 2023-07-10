@@ -15,22 +15,22 @@
             </h2>
             <ul class='text-gray-600 font-[PoppinsMedium]'>
               <li class='mb-4'>
-                <a href='#' class='hover:underline'>
+                <a href='/services' class='hover:underline'>
                   Lavandería
                 </a>
               </li>
               <li class='mb-4'>
-                <a href='#' class='hover:underline'>
+                <a href='/services' class='hover:underline'>
                   Tintorería
                 </a>
               </li>
               <li class='mb-4'>
-                <a href='#' class='hover:underline'>
+                <a href='/services' class='hover:underline'>
                   Limpieza de Alfombras
                 </a>
               </li>
               <li class='mb-4'>
-                <a href='#' class='hover:underline'>
+                <a href='/services' class='hover:underline'>
                   Limpieza de Cuero
                 </a>
               </li>
@@ -42,12 +42,12 @@
             </h2>
             <ul class='text-gray-600 font-[PoppinsMedium]'>
               <li class='mb-4'>
-                <a href='#' class='hover:underline '>
+                <a href='https://www.facebook.com' class='hover:underline '>
                   Facebook
                 </a>
               </li>
               <li>
-                <a href='#' class='hover:underline'>
+                <a href='https://www.twitter.com' class='hover:underline'>
                   Instagram
                 </a>
               </li>
@@ -59,12 +59,12 @@
             </h2>
             <ul class='text-gray-600 font-[PoppinsMedium]'>
               <li class='mb-4'>
-                <a href='#' class='hover:underline'>
+                <a href='https://missclean-laundry.vercel.app' class='hover:underline'>
                   Politica de Privacidad
                 </a>
               </li>
               <li>
-                <a href='#' class='hover:underline'>
+                <a href='https://missclean-laundry.vercel.app' class='hover:underline'>
                   Terminos &amp; Condiciones
                 </a>
               </li>

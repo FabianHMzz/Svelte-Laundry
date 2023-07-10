@@ -15,7 +15,7 @@
                   <span class='text-lg font-[PoppinsMedium] tracking-wide pt-6 animate-fade-up animate-duration-[1500ms] animate-delay-1000 animate-ease-out'>Hacemos que tus prendas luzcan increíbles.</span> 
                 </p>
                 <div class='border border-white rounded-full py-3 mt-10 cursor-pointer w-48 flex items-center justify-center animate-fade animate-once animate-duration-[1200ms] animate-delay-[1700ms] animate-ease-out hover:bg-white transition-colors duration-150 backdrop-blur-md'>
-                  <a href="" class='text-white link link--arrowed inline-flex select-none text-center font-[PoppinsMedium] mt-1 text-base sm:text-lg hover:text-black transition-colors duration-150'>
+                  <a href="/about" class='text-white link link--arrowed inline-flex select-none text-center font-[PoppinsMedium] mt-1 text-base sm:text-lg hover:text-black transition-colors duration-150'>
                     Saber más
                     <svg class="arrow-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><g fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round" stroke-miterlimit="10"><path class="arrow-icon--arrow" d="M16.14 9.93L22.21 16l-6.07 6.07M8.23 16h13.98"></path></g></svg>
                   </a>

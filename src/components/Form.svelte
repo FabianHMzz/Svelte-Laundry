@@ -143,6 +143,7 @@
                     name='option'
                   />
 
+                  <!-- svelte-ignore a11y-no-noninteractive-tabindex -->
                   <label
                     for='option1'
                     class='block w-full rounded-lg border bg-white border-gray-200 p-3 text-gray-600 hover:border-black peer-checked:border-black peer-checked:bg-[#0F74BA] peer-checked:text-white'
@@ -164,6 +165,7 @@
                     name='option'
                   />
 
+                  <!-- svelte-ignore a11y-no-noninteractive-tabindex -->
                   <label
                     for='option2'
                     class='block w-full rounded-lg border bg-white border-gray-200 p-3 text-gray-600 hover:border-black peer-checked:border-black peer-checked:bg-[#0F74BA] peer-checked:text-white'
@@ -185,6 +187,7 @@
                     name='option'
                   />
 
+                  <!-- svelte-ignore a11y-no-noninteractive-tabindex -->
                   <label
                     for='option3'
                     class='block w-full rounded-lg border bg-white border-gray-200 p-3 text-gray-600 hover:border-black peer-checked:border-black peer-checked:bg-[#0F74BA] peer-checked:text-white'
