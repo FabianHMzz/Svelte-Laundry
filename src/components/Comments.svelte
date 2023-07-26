@@ -69,7 +69,7 @@
               <button
                 type='submit'
                 value='Send'
-                class='flex mx-auto border-2 border-[#0F74BA] px-5 py-2 rounded-full select-none hover:bg-[#0F74BA] hover:text-white transition duration-300 ease-in-out text-[#0F74BA] font-[PoppinsBold]'
+                class='flex mx-auto border-2 border-[#0F74BA] px-5 py-2 rounded-full select-none hover:bg-[#0F74BA] hover:text-white transition-colors duration-300 ease-in-out text-[#0F74BA] font-[PoppinsBold]'
               >
                 Enviar Mensaje
               </button>
