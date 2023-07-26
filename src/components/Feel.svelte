@@ -59,7 +59,7 @@
               <div class='flex justify-center md:justify-start items-center md:items-start'>
                 <a
                   href='/about'
-                  class='border-2 text-center border-[#0F74BA] rounded-full select-none px-7 py-2 hover:bg-[#0F74BA] hover:text-white transition duration-300 ease-in-out text-[#0F74BA] font-[PoppinsBold] text-base'
+                  class='border-2 text-center border-[#0F74BA] rounded-full select-none px-7 py-2 hover:bg-[#0F74BA] hover:text-white transition-colors duration-300 ease-in-out text-[#0F74BA] font-[PoppinsBold] text-base'
                 >
                   Conocenos
                 </a>
@@ -68,7 +68,7 @@
           </div>
           <div class='mx-auto flex items-center justify-center lg:justify-start'>
             <div class=' relative md:absolute -z-20'>
-              <div class='flex image-tech min-w justify-center items-center relative flex-col pt-4 pb-8 sm:py-10 px-6 sm:px-12 lg:w-[700px] select-none sm:w-64 z-20 md:hidden lg:block'>
+              <div class='flex justify-center items-center relative flex-col pt-4 pb-8 sm:py-10 px-6 sm:px-12 lg:w-[700px] select-none sm:w-64 z-20 md:hidden lg:block'>
                 <img
                   class='select-none'
                   src='/dry-clothes.png'
