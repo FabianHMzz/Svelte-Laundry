@@ -59,12 +59,12 @@
             </h2>
             <ul class='text-gray-600 font-[PoppinsMedium]'>
               <li class='mb-4'>
-                <a href='#!' class='hover:underline'>
+                <a href='/privacy-policy' class='hover:underline'>
                   Politica de Privacidad
                 </a>
               </li>
               <li>
-                <a href='#!' class='hover:underline'>
+                <a href='/terms' class='hover:underline'>
                   Terminos &amp; Condiciones
                 </a>
               </li>
