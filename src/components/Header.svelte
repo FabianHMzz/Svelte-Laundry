@@ -5,9 +5,9 @@
 		  <div class='relative z-20'>
 			<a href='/' class='flex items-center'>
 			  <img
-				src='/svg/MCL.svg'
+				src='/svg/AquaWash-logo.svg'
 				alt='LMC Logo'
-				class='w-32 md:w-32 mr-3'
+				class='w-20 mr-3'
 			  />
 			</a>
 		  </div>

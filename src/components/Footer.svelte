@@ -3,7 +3,7 @@
       <div class='md:flex md:justify-between'>
         <div class='mb-6 md:mb-0'>
           <img
-            src='/svg/MCL.svg'
+            src='/svg/AquaWash-logo.svg'
             class='h-32 mr-3 select-none'
             alt='Laundry Miss Clean Logo'
           />
@@ -59,12 +59,12 @@
             </h2>
             <ul class='text-gray-600 font-[PoppinsMedium]'>
               <li class='mb-4'>
-                <a href='https://missclean-laundry.vercel.app' class='hover:underline'>
+                <a href='#!' class='hover:underline'>
                   Politica de Privacidad
                 </a>
               </li>
               <li>
-                <a href='https://missclean-laundry.vercel.app' class='hover:underline'>
+                <a href='#!' class='hover:underline'>
                   Terminos &amp; Condiciones
                 </a>
               </li>
