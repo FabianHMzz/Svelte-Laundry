@@ -11,7 +11,6 @@
       </div>
 
       <div class="lg:py-16">
-        <article class="space-y-4 text-gray-600">
           <h2 class="text-3xl font-[PoppinsBold] text-[#0F74BA]  sm:text-4xl">Visión</h2>
           <p class="mt-4 font-[Satoshi] text-gray-800">
             Nuestra lavandería se esfuerza por brindar a los clientes una experiencia de lavado y secado de ropa rápida, conveniente y de calidad. 
@@ -19,7 +18,6 @@
             personas al ofrecer un lugar limpio y acogedor, con máquinas intuitivas y amigables. Nuestro objetivo es ser la lavandería preferida, donde los 
             clientes confíen en que su ropa será cuidada de manera eficiente y respetuosa con el medio ambiente.
           </p>
-        </article>
       </div>
     </div>
   </div>
