@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-	<title>Laundry Miss Clean</title>
+	<title>AquaWash Laundry</title>
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
